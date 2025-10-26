@@ -51,7 +51,7 @@ export default function Hero() {
                             <span className="font-medium">@creator{i}</span>
                             <span className="ml-auto text-xs text-muted-foreground">AI curated</span>
                           </div>
-                          <p className="mt-1 text-sm text-muted-foreground line-clamp-2">
+                          <p className="mt-1 text-sm text-muted-foreground">
                             AI thinks you'll love this. Tap to view more like this.
                           </p>
                         </div>
